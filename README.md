@@ -1,0 +1,2 @@
+# Yatzi
+educational exercise KYH
