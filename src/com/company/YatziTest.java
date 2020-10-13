@@ -3,7 +3,7 @@ package com.company;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
-import static com.company.Dice.dice;
+import static com.company.Dice.*;
 
 public class YatziTest {
 

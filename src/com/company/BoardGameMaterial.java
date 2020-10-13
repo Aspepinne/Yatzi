@@ -3,7 +3,6 @@ package com.company;
 import java.util.Scanner;
 
 import static com.company.Dice.*;
-import static com.company.Dice.dice;
 
 class BoardGameMaterial {
     private static int turn;
